@@ -13,7 +13,8 @@ function lookup(){
                 start 'chrome.exe' "https://google.com/search?q=$*"
         fi
 }
-function lazyGit(){     git add .
+function push(){    
+	git add .
         git commit -m "$*"
         git push
 }

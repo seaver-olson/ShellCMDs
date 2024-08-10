@@ -1,3 +1,5 @@
+Usable only on windows 
+
 simply `mv` this file into your `~` directory  and add `source .bash_cmds.sh` to your `.bash_profile` 
 
 
